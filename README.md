@@ -5,3 +5,4 @@
 - encryption key exchange completely independent of discord servers (otherwise what's the point, right?)
 - no centralized or dependent servers
 - handle servers and direct messages
+- no disturbing vpn connections
